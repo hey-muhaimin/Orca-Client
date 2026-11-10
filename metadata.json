@@ -1,0 +1,8 @@
+{
+  "name": "Orca",
+  "description": "AI agent orchestrator to run, steer, and monitor coding agents in parallel worktrees with chat and diff reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
